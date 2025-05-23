@@ -1,10 +1,15 @@
 streamlit
-openai
-langchain
-python-dotenv
-tqdm
-pdfminer.six
 python-docx
+PyPDF2
+tqdm
+python-dotenv
 spacy
+pandas
 scikit-learn
-sentence-transformers
+nltk
+
+# LLM agent framework and providers
+langchain
+openai
+groq
+ollama
